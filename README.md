@@ -1,5 +1,8 @@
 # Backend-oriented-task
 
+To start the server, run this command<br>
+<code>java Main</code>
+
 To get list of currencies, run this command<br>
 <code>curl http://localhost:8081/list/</code>
 

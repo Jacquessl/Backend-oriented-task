@@ -30,7 +30,7 @@ Minimum exchange rate for US Dollar in the last 10 days is: 4.2006"</li>
 <code>curl http://localhost:8081/diff/{code}/{count}</code><br>
 
 Example:<br>
-<code>curl http://localhost:8081/diff/usd/10</code>
+<code>curl http://localhost:8081/diff/usd/10</code><br>
 Output:<br> 
 "The biggest difference between ask and buy price for US Dollar in the last 10 days is: 0.08599999999999941"</li>
 </ul>
